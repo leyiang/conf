@@ -1,1 +1,3 @@
-# Just several configuration files here. Nothing special.
+# About
+
+Configuration files for (future) fast migration.
